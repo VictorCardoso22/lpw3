@@ -1,0 +1,16 @@
+
+
+<div class="container">
+	<h1>Pagina de Login:</h1>
+
+      <div class="form-signin">
+       
+        <label for="inputEmail" class="sr-only"  >Usuario</label>
+        <input type="text"  class="form-control" placeholder="Usuario" #usuario required autofocus>
+        <label for="inputPassword" class="sr-only">Senha</label>
+        <input type="password"  class="form-control" placeholder="Password" required #senha>
+       
+        <button class="btn btn-lg btn-primary btn-block"  (click)="abrirTarefa(usuario.value, senha.value)">Acessar</button>
+      </div>
+
+    </div>
