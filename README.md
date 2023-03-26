@@ -1,4 +1,4 @@
-# Lpw3
+### PROJETO PARA AULA DE LINGUAGEM DE PROGRAMAÇÃO WEB DA PÓS GRADUAÇÃO DE INOVAÇÃO E DESENVOLVIMENTO WEB E MOBILE - UTILIZANDO ANGULAR 2
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.3.
 
